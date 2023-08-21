@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Getting started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Install Node and Node Package Manager with this [link](https://nodejs.org/en/download)
+
+Within the project directory, run:
+
+## `npm install`
+
+This installs the corresponding dependencies indicated in package.json
 
 ## Available Scripts
 
