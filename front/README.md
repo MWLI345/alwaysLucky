@@ -4,7 +4,7 @@ Install Node and Node Package Manager with this [link](https://nodejs.org/en/dow
 
 Within the project directory, run:
 
-## `npm install`
+### `npm install`
 
 This installs the corresponding dependencies indicated in package.json
 
